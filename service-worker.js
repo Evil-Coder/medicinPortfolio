@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-project/precache-manifest.5e84fc3c8c6f218a4c697564c605a6c8.js"
+  "/medicinPortfolio/precache-manifest.b76bca4e5b35b771ad375b47928d9dc3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "summary"});
